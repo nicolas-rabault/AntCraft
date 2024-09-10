@@ -1,4 +1,4 @@
-![](img/logo.png | width=100)
+![](img/logo.png)
 
 This project is an open-source parametric modular 3D printable ant farm.
 It is designed to be easily customizable, easy to print and assemble, and to be a good environment for your ants.
