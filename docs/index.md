@@ -5,8 +5,6 @@ It is designed to be easily customizable, easy to print and assemble, and to be 
 
 Because of it's modularity it can be easily expanded in size to fit your ants colony growth.
 
-You can choose to easily make your own custom formicarium by changing the parameters in <a href="https://cad.onshape.com/documents/d7ddd3ac884f473f8009b440/w/5948ea134c8dfe00e7d1d0a3/e/03ab3f3200ff395ac19bfa24?renderMode=0&uiState=66e00d7f8beaf323cb183237">the Onshape document</a> or to directly download the stl files from the THINGIVERSE page or directly from an example project on <a href="https://cad.onshape.com/documents/d7ddd3ac884f473f8009b440/w/5948ea134c8dfe00e7d1d0a3/e/03ab3f3200ff395ac19bfa24?renderMode=0&uiState=66e00d7f8beaf323cb183237">Onshape</a>.
-
 ![](img/starter_kit.png)
 
 ## Features
@@ -19,3 +17,6 @@ You can choose to easily make your own custom formicarium by changing the parame
 - **Easy to maintain** : The formicarium is designed to be easily cleaned and maintained. You can see the water level and easily refill it. Some feader and waterer can be added to the formicarium hunting area to feed your ants.
 - **Easy to build** : The formicarium is designed to be easily printed and assembled. You can print the parts with a standard 3D printer unsing only PLA and assemble them easy to find parts.
 - **Safe** : The formicarium is designed to be safe for your ants. The walls are easily climbable and escape proof.
+- **Complete** : Feaders, waterers, pliers, test tubes link, pipes link, and other accessories are available to complete your kit.
+
+You can choose to easily make your own custom formicarium by changing the parameters in <a href="https://cad.onshape.com/documents/d7ddd3ac884f473f8009b440/w/5948ea134c8dfe00e7d1d0a3/e/03ab3f3200ff395ac19bfa24?renderMode=0&uiState=66e00d7f8beaf323cb183237">the Onshape document</a> or to directly download the stl files from the THINGIVERSE page or directly from an example project on <a href="https://cad.onshape.com/documents/d7ddd3ac884f473f8009b440/w/5948ea134c8dfe00e7d1d0a3/e/03ab3f3200ff395ac19bfa24?renderMode=0&uiState=66e00d7f8beaf323cb183237">Onshape</a>.
