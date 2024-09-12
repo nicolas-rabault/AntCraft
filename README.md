@@ -1,7 +1,7 @@
 # **AntCraft**: Build a home your ants will love!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8bf556c8-1c99-4c06-91dd-89c266a90e3f" width="400">
+  <img src="https://github.com/user-attachments/assets/23746782-a833-41b0-9cc2-926ab6344b89" width="400">
 </p>
 
 **AntCraft** is a **parametric, 3D printable, modular, and open-source formicarium** that you can easily create and customize. It’s designed with simplicity, durability, and expandability in mind, making it the perfect environment for your growing ant colony.
